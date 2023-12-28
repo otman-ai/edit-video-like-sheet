@@ -1,0 +1,4 @@
+SpeechRecognition
+moviepy
+faster-whisper==0.7.0
+gradio
